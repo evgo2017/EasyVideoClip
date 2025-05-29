@@ -1,7 +1,7 @@
 # EasyVideoClip 简单视频剪切
 从视频文件中提取一段原片，简单视频剪切。
 
-![2025-04-13_173459](assets/easy-video-clip_v1.0.png)
+![easy-video-clip_v1.0](https://github.com/evgo2017/EasyVideoClip/raw/master/assets/easy-video-clip_v1.0.png)
 
 其它更新、更多信息在[软件主页](https://evgo2017.com/blog/office2pdf)查看。
 
@@ -9,7 +9,7 @@
 
 下载地址 1：[网盘](http://evgo2017.ysepan.com/)（项目密码: evgo2017）（两小时内有下载量的限制，故设置密码）
 
-下载地址 2：[Github Release]([Releases · evgo2017/EasyVideoClip](https://github.com/evgo2017/EasyVideoClip/releases))
+下载地址 2：[Github Release](https://github.com/evgo2017/EasyVideoClip/releases)
 
 ## 二、使用方式
 
@@ -24,8 +24,6 @@
 ### 使用演示
 
 [使用演示在B站](https://www.bilibili.com/video/BV1Jyd6YhEUe/)
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Jyd6YhEUe&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 > 注：视频音色为工具生成。
 
